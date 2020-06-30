@@ -15,7 +15,7 @@ in the PPG is by estimating the power spectral density (PSD) of the signal.
 
 3. Prominent peaks are indicative of heart beats, and the distance between them is near-constant in short signal windows under normal physiological conditions. Thus, the regularity, or variance, of inter-peak distance can be used as a discriminating feature between high and low-HR content signal segments. 
 
-Time domain measures:
+Time domain based feature measures:
 
 beats per minute, BPM
 interbeat interval, IBI
@@ -27,7 +27,7 @@ median absolute deviation, MAD
 Poincare analysis (SD1, SD2, S, SD1/SD1)
 Poincare plotting
 
-Frequency domain measures:
+Frequency domain based feature measures:
 
 low frequency component (0.04-0.15Hz), LF
 high frequency component (0.16-0.5Hz), HF
