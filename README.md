@@ -15,10 +15,6 @@ in the PPG is by estimating the power spectral density (PSD) of the signal.
 
 3. Prominent peaks are indicative of heart beats, and the distance between them is near-constant in short signal windows under normal physiological conditions. Thus, the regularity, or variance, of inter-peak distance can be used as a discriminating feature between high and low-HR content signal segments. 
 
-REFERENCES:
-
-Jarchi, D., & Casson, A. J. (2017). Description of a database containing wrist PPG signals recorded during physical exercise with both accelerometer and gyroscope measures of motion. Data, 2(1), 1.
-
 Time domain measures:
 
 beats per minute, BPM
@@ -36,4 +32,9 @@ Frequency domain measures:
 low frequency component (0.04-0.15Hz), LF
 high frequency component (0.16-0.5Hz), HF
 lf/hf ratio, Lf/HF
+
+
+REFERENCES:
+
+Jarchi, D., & Casson, A. J. (2017). Description of a database containing wrist PPG signals recorded during physical exercise with both accelerometer and gyroscope measures of motion. Data, 2(1), 1.
 
